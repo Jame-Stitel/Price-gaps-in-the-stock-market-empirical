@@ -1,0 +1,16 @@
+requests
+python-dateutil
+langdetect
+bs4
+pydantic
+pandas
+finsymbols
+backoff
+alpaca-trade-api
+more-itertools
+plotly
+tqdm
+kaleido
+mplfinance
+scikit-learn
+transformers
